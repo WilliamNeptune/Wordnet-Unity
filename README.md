@@ -66,7 +66,7 @@ The project allows users to switch between dark mode and light mode.
 
 
 # Project previews
-![Screenshot](https://github.com/WilliamNeptune/Wordnet-Unity/blob/4a898b9c4abc3138cba207422ff2bfa01347ef11/Images/Screenshot_1.png)
+(https://github.com/WilliamNeptune/Wordnet-Unity/blob/4a898b9c4abc3138cba207422ff2bfa01347ef11/Images/Screenshot_1.png)
 
 
 
