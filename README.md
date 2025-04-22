@@ -19,7 +19,7 @@
 -   [License](#License)
 
 # Project overview
-WordNet-Unity is a variant of WordNet (https://wordnet.princeton.edu) implemented using Unity and the .NET platform. It provides the core functionality of the original project, including synonym comparison and the ability to add custom words. This project has an iOS version available on the App Store (https://apps.apple.com/us/app/synonymnet/id6739968740).
+WordNet-Unity(also called SynonymNet) is a variant of WordNet (https://wordnet.princeton.edu) implemented using Unity and the .NET platform. It provides the core functionality of the original project, including synonym comparison and the ability to add custom words. This project has an iOS version available on the App Store (https://apps.apple.com/us/app/synonymnet/id6739968740).
 # Requirements
 1. **Unity**
    - Version: 2019.4 or higher
