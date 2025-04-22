@@ -1,0 +1,1016 @@
+{
+    "language": {
+        "SID_TITLE1": {
+            "_descSid": {
+                "1": " SynonymNet",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SID_TITLE2": {
+            "_descSid": {
+                "1": " Bookmarks",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SID_TITLE3": {
+            "_descSid": {
+                "1": " Settings",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "ADD_CUSTOM_WORD": {
+            "_descSid": {
+                "1": " Add",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "ENJOY_WORDNET": {
+            "_descSid": {
+                "1": " Enjoy Synonymness!",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "BACK": {
+            "_descSid": {
+                "1": " Back",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "LOGIN": {
+            "_descSid": {
+                "1": " Login",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "REGISTER": {
+            "_descSid": {
+                "1": " Register",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "PASSWORD": {
+            "_descSid": {
+                "1": " Password",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUMBIT": {
+            "_descSid": {
+                "1": " Submit",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SIGN_IN_EMAIL": {
+            "_descSid": {
+                "1": " Sign in with email",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SIGN_IN_GOOGLE": {
+            "_descSid": {
+                "1": " Sign in with Google",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SIGN_IN_APPLE": {
+            "_descSid": {
+                "1": " Sign in with Apple",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "ADD_TO_BOOKMARKS": {
+            "_descSid": {
+                "1": " Add to bookmarks",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "CLOSE": {
+            "_descSid": {
+                "1": " Close",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "REGISTER_AN_ACCOUNT": {
+            "_descSid": {
+                "1": " Register a new account",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "RETURN_TO_LOGIN": {
+            "_descSid": {
+                "1": " Return to login",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "VERIFY_EMAIL": {
+            "_descSid": {
+                "1": " Please check your email for a verification link.",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "REGISTER_FAILED": {
+            "_descSid": {
+                "1": " Registration failed",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "LOGIN_FAILED": {
+            "_descSid": {
+                "1": " Account or password is incorrect",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "LANG": {
+            "_descSid": {
+                "1": " Language",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "FEEDBACK": {
+            "_descSid": {
+                "1": " Feedback",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "ABOUT": {
+            "_descSid": {
+                "1": " About",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "DARK_MODE": {
+            "_descSid": {
+                "1": " Dark Mode",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "LIGHT_MODE": {
+            "_descSid": {
+                "1": " Light Mode",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "UP_REMOVE_AD": {
+            "_descSid": {
+                "1": " Remove Ads",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "RATE": {
+            "_descSid": {
+                "1": "Rate this app",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "EMAIL": {
+            "_descSid": {
+                "1": " Email address",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "ENTER": {
+            "_descSid": {
+                "1": " enter text",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "TERM": {
+            "_descSid": {
+                "1": " By signing up, you agree to our Term of Service and acknowledge receipt of our Privacy Policy, acknowledge that you have reviewd the policy, and agree to be bound by the terms.",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "NOUN": {
+            "_descSid": {
+                "1": " noun",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "VERB": {
+            "_descSid": {
+                "1": " verb",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "ADJECTIVE": {
+            "_descSid": {
+                "1": " adj",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "ADJECTIVE_SATELITE": {
+            "_descSid": {
+                "1": " adj_s",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "ADVERB": {
+            "_descSid": {
+                "1": " adv",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "INVALID_INPUT": {
+            "_descSid": {
+                "1": " Input contains invalid symbols.",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SIGN_UP": {
+            "_descSid": {
+                "1": "Sign in for more features",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SIGN_IN": {
+            "_descSid": {
+                "1": "Sign in",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SIGN_OUT": {
+            "_descSid": {
+                "1": "Sign out",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "TRENDING": {
+            "_descSid": {
+                "1": "Popular",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_TO_ADD_BOOKMARK": {
+            "_descSid": {
+                "1": " Unlimited bookmarks after subscribing",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "NO_MORE_AI_SEARCHING_REMAIN_COUNT": {
+            "_descSid": {
+                "1": " You have no more AI searching remain count. Please subscribe to continue.",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "LEMMA_ALREADY_EXISTS": {
+            "_descSid": {
+                "1": " Lemma already exists",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_TO_REMOVE_ADS": {
+            "_descSid": {
+                "1": " Enjoy an uninterrupted experience",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_TO_UNLIMITED_BOOKMARKS": {
+            "_descSid": {
+                "1": " Create unlimited bookmarks",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_TO_UNLIMITED_SEARCH": {
+            "_descSid": {
+                "1": " Use unlimited synonyms comparison supported by AI",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_TO_REMOVE_AD_TITLE": {
+            "_descSid": {
+                "1": " Remove Ads",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_TO_UNLIMITED_BOOKMARKS_TITLE": {
+            "_descSid": {
+                "1": " Unlimited bookmarks",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_TO_UNLIMITED_SEARCH_TITLE": {
+            "_descSid": {
+                "1": " Unlimited synonyms comparison",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "YOU_ARE_SUBSCRIBED": {
+            "_descSid": {
+                "1": " You are the premium now",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_TO_RESTORE": {
+            "_descSid": {
+                "1": " Already subscribed? <color=red>Restore your purchase.</color>",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_TITLE": {
+            "_descSid": {
+                "1": " Premium Membership",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_MESSAGE": {
+            "_descSid": {
+                "1": " You have been subscribed",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_RESTORE_MESSAGE": {
+            "_descSid": {
+                "1": " You have been subscribedß",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_RESTORE_BUTTON": {
+            "_descSid": {
+                "1": " Restore",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_RESTORE_FAILED": {
+            "_descSid": {
+                "1": " Restore failed",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_RESTORE_SUCCESS": {
+            "_descSid": {
+                "1": " Restore success",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "REGISTER_FAILED_MESSAGE_1": {
+            "_descSid": {
+                "1": " Email or password is empty.",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "REGISTER_FAILED_MESSAGE_2": {
+            "_descSid": {
+                "1": " Passwords do not match.",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "REGISTER_FAILED_MESSAGE_3": {
+            "_descSid": {
+                "1": " Invalid email format.",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "REGISTER_FAILED_MESSAGE_4": {
+            "_descSid": {
+                "1": " Invalid password. Password must be at least 6 characters long and contain no special characters.",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "REGISTER_SUCCESS_MESSAGE": {
+            "_descSid": {
+                "1": " User registered successfully, please check your email for a verification link.",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE": {
+            "_descSid": {
+                "1": " Subscribe",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "BOOKMARK_ADDED": {
+            "_descSid": {
+                "1": " Bookmark added",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "WRITING_FEEDBACK": {
+            "_descSid": {
+                "1": " Please write something.",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "THANKS_FOR_FEEDBACK": {
+            "_descSid": {
+                "1": " Thanks for your feedback!",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "INVALID_WORD": {
+            "_descSid": {
+                "1": " Invalid word",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "FEEDBACK_LIMIT_REACHED": {
+            "_descSid": {
+                "1": " You have reached the daily feedback limit.",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "ADD_CUSTOM_WORD_2": {
+            "_descSid": {
+                "1": " Add a custom word for {1}",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "UPDATE_POPUP_TITLE": {
+            "_descSid": {
+                "1": " Your version is outdated, please update to the latest version from the app store.",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "YOU_HAVE_BEEN_SUBSCRIBED": {
+            "_descSid": {
+                "1": " You have been subscribed",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "PURCHASE_FAILED": {
+            "_descSid": {
+                "1": " Purchase failed",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "INTRODUCTION": {
+            "_descSid": {
+                "1": " Introduction",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "TERMS_OF_USE": {
+            "_descSid": {
+                "1": " Terms & Conditions",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "PRIVACY_POLICY": {
+            "_descSid": {
+                "1": " Privacy Policy",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "LICENSE": {
+            "_descSid": {
+                "1": " License",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "NO_RESULTS_FOUND": {
+            "_descSid": {
+                "1": " No results found",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "UP_TO_DATE": {
+            "_descSid": {
+                "1": " Up to date",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "RESTORE_FAILED": {
+            "_descSid": {
+                "1": " Restore failed",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIPTION_TERMS": {
+            "_descSid": {
+                "1": "Your subscription will automatically renew and your Apple ID account will be charged for the selected period unless canceled at least 24 hours before the current period ends. You can manage or cancel your subscription anytime through your Apple ID account settings. By subscribing, you agree to our <link=\"terms\"><color=red>Terms </color></link> and <link=\"privacy\"><color=red>Privacy Policy</color></link>. The subscription will continue at the selected price and duration until canceled.",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIPTION_PRICE_INFO": {
+            "_descSid": {
+                "1": " $4.99/month",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "ACCOUNT_SETTINGS": {
+            "_descSid": {
+                "1": " Account Settings",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "DELETE_ACCOUNT": {
+            "_descSid": {
+                "1": " Delete Account",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "DELETE_ACCOUNT_MESSAGE": {
+            "_descSid": {
+                "1": " Are you sure you want to delete your account? Please note that this action cannot be undone. If you have any active subscriptions, you can manage them in your apple store account settings.",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "CONFIRM": {
+            "_descSid": {
+                "1": " Confirm",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "CANCEL": {
+            "_descSid": {
+                "1": " Cancel",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "DELETE_ACCOUNT_SUCCESS": {
+            "_descSid": {
+                "1": " Account deleted successfully",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "DELETE_ACCOUNT_FAILED": {
+            "_descSid": {
+                "1": " Failed to delete account",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "DELETE_ACCOUNT_SUCCESS_SUBSCRIPTION": {
+            "_descSid": {
+                "1": " Account deleted successfully. But you have an active subscription. Please cancel your subscription to delete your account.",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "COLOR_MODE": {
+            "_descSid": {
+                "1": " Color Mode",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "CONFIRM_DELETE_ACCOUNT": {
+            "_descSid": {
+                "1": " You have confirmed to delete your account.Please restart the app.",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "TRY_TO_CLICK": {
+            "_descSid": {
+                "1": " Try to click the line and the synonyms to see the result.",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run Language Scripts",
+            "type": "process",
+            "command": "python3",
+            "args": [
+                "${workspaceFolder}/Assets/Multi_Lang/parseData.py"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "reveal": "always",
+                "panel": "new"
+            },
+            "problemMatcher": [],
+            "options": {
+                "env": {
+                    "PYTHONPATH": "${workspaceFolder}/Assets/Multi_Lang"
+                }
+            }
+        }
+    ]
+}

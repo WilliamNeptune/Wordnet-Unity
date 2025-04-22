@@ -1,0 +1,93 @@
+SID_TITLE1, SynonymNet
+SID_TITLE2, Bookmarks
+SID_TITLE3, Settings
+ADD_CUSTOM_WORD, Add a synonym
+ENJOY_WORDNET, Enjoy Synonymness!
+BACK, Back
+LOGIN, Login
+REGISTER, Register
+PASSWORD, Password
+SUMBIT, Submit
+SIGN_IN_EMAIL, Sign in with email
+SIGN_IN_GOOGLE, Sign in with Google
+SIGN_IN_APPLE, Sign in with Apple
+ADD_TO_BOOKMARKS, Add to bookmarks
+CLOSE, Close
+REGISTER_AN_ACCOUNT, Register a new account
+RETURN_TO_LOGIN, Return to login
+VERIFY_EMAIL, Please check your email for a verification link.
+REGISTER_FAILED, Registration failed
+LOGIN_FAILED, Account or password is incorrect
+LANG, Language
+FEEDBACK, Feedback
+ABOUT, About
+DARK_MODE, Dark Mode
+LIGHT_MODE, Light Mode
+UP_REMOVE_AD, Remove Ads
+RATE,Rate this app
+EMAIL, Email address
+ENTER, enter text
+TERM, By signing up, you agree to our Term of Service and acknowledge receipt of our Privacy Policy, acknowledge that you have reviewd the policy, and agree to be bound by the terms.
+NOUN, noun
+VERB, verb
+ADJECTIVE, adj
+ADJECTIVE_SATELITE, adj_s
+ADVERB, adv
+INVALID_INPUT, Input contains invalid symbols.
+SIGN_UP,Sign in for more features
+SIGN_IN,Sign in
+SIGN_OUT,Sign out
+TRENDING,Popular
+SUBSCRIBE_TO_ADD_BOOKMARK, Unlimited bookmarks after subscribing
+NO_MORE_AI_SEARCHING_REMAIN_COUNT, You have no more AI searching remain count. Please subscribe to continue.
+LEMMA_ALREADY_EXISTS, Lemma already exists
+SUBSCRIBE_TO_REMOVE_ADS, Enjoy an uninterrupted experience
+SUBSCRIBE_TO_UNLIMITED_BOOKMARKS, Create unlimited bookmarks
+SUBSCRIBE_TO_UNLIMITED_SEARCH, Use unlimited synonyms comparison supported by AI
+SUBSCRIBE_TO_REMOVE_AD_TITLE, Remove Ads
+SUBSCRIBE_TO_UNLIMITED_BOOKMARKS_TITLE, Unlimited bookmarks
+SUBSCRIBE_TO_UNLIMITED_SEARCH_TITLE, Unlimited synonyms comparison
+YOU_ARE_SUBSCRIBED, You are the premium now
+SUBSCRIBE_TO_RESTORE, Already subscribed? <color=red>Restore your purchase.</color>
+SUBSCRIBE_TITLE, Premium Membership
+SUBSCRIBE_MESSAGE, You have been subscribed
+SUBSCRIBE_RESTORE_MESSAGE, You have been subscribedß
+SUBSCRIBE_RESTORE_BUTTON, Restore
+SUBSCRIBE_RESTORE_FAILED, Restore failed
+SUBSCRIBE_RESTORE_SUCCESS, Restore success
+REGISTER_FAILED_MESSAGE_1, Email or password is empty.
+REGISTER_FAILED_MESSAGE_2, Passwords do not match.
+REGISTER_FAILED_MESSAGE_3, Invalid email format.
+REGISTER_FAILED_MESSAGE_4, Invalid password. Password must be at least 6 characters long and contain no special characters.
+REGISTER_SUCCESS_MESSAGE, User registered successfully, please check your email for a verification link.
+SUBSCRIBE, Subscribe
+BOOKMARK_ADDED, Bookmark added
+WRITING_FEEDBACK, Please write something.
+THANKS_FOR_FEEDBACK, Thanks for your feedback!
+INVALID_WORD, Invalid word
+FEEDBACK_LIMIT_REACHED, You have reached the daily feedback limit.
+ADD_CUSTOM_WORD, Add
+ADD_CUSTOM_WORD_2, Add a custom word for {1}
+UPDATE_POPUP_TITLE, Your version is outdated, please update to the latest version from the app store.
+YOU_HAVE_BEEN_SUBSCRIBED, You have been subscribed
+PURCHASE_FAILED, Purchase failed
+INTRODUCTION, Introduction
+TERMS_OF_USE, Terms & Conditions
+PRIVACY_POLICY, Privacy Policy
+LICENSE, License
+NO_RESULTS_FOUND, No results found
+UP_TO_DATE, Up to date
+RESTORE_FAILED, Restore failed
+SUBSCRIPTION_TERMS,Your subscription will automatically renew and your Apple ID account will be charged for the selected period unless canceled at least 24 hours before the current period ends. You can manage or cancel your subscription anytime through your Apple ID account settings. By subscribing, you agree to our <link="terms"><color=red>Terms </color></link> and <link="privacy"><color=red>Privacy Policy</color></link>. The subscription will continue at the selected price and duration until canceled.
+SUBSCRIPTION_PRICE_INFO, $4.99/month
+ACCOUNT_SETTINGS, Account Settings
+DELETE_ACCOUNT, Delete Account
+DELETE_ACCOUNT_MESSAGE, Are you sure you want to delete your account? Please note that this action cannot be undone. If you have any active subscriptions, you can manage them in your apple store account settings.
+CONFIRM, Confirm
+CANCEL, Cancel
+DELETE_ACCOUNT_SUCCESS, Account deleted successfully
+DELETE_ACCOUNT_FAILED, Failed to delete account
+DELETE_ACCOUNT_SUCCESS_SUBSCRIPTION, Account deleted successfully. But you have an active subscription. Please cancel your subscription to delete your account.
+COLOR_MODE, Color Mode
+CONFIRM_DELETE_ACCOUNT, You have confirmed to delete your account.Please restart the app.
+TRY_TO_CLICK, Try to click the line and the synonyms to see the result.

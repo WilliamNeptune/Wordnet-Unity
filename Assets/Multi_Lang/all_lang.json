@@ -1,0 +1,620 @@
+{
+    "language": {
+        "SID_TITLE1": {
+            "_descSid": {
+                "1": " Wordnet",
+                "2": " ワードネット",
+                "3": " 워드넷",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SID_TITLE2": {
+            "_descSid": {
+                "1": " Bookmarks",
+                "2": " ブックマーク",
+                "3": " 북마크",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SID_TITLE3": {
+            "_descSid": {
+                "1": " Settings",
+                "2": " 設定",
+                "3": " 설정",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "ADD_CUSTOM_WORD": {
+            "_descSid": {
+                "1": " Add a synonym",
+                "2": " 単語を追加",
+                "3": " 단어 추가",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "ENJOY_WORDNET": {
+            "_descSid": {
+                "1": " Enjoy Synonymness!",
+                "2": " シノニムを楽しもう！",
+                "3": " 동의어를 즐기세요!",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "BACK": {
+            "_descSid": {
+                "1": " Back",
+                "2": " 戻る",
+                "3": " 뒤로",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "LOGIN": {
+            "_descSid": {
+                "1": " Login",
+                "2": " ログイン",
+                "3": " 로그인",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "REGISTER": {
+            "_descSid": {
+                "1": " Register",
+                "2": " 登録",
+                "3": " 회원가입",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "PASSWORD": {
+            "_descSid": {
+                "1": " Password",
+                "2": " パスワード",
+                "3": " 비밀번호",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUMBIT": {
+            "_descSid": {
+                "1": " Submit",
+                "2": " 提出",
+                "3": " 제출",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SIGN_IN_EMAIL": {
+            "_descSid": {
+                "1": " Sign in with email",
+                "2": " メールでログイン",
+                "3": " 이메일로 로그인",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SIGN_IN_GOOGLE": {
+            "_descSid": {
+                "1": " Sign in with Google",
+                "2": " Googleでログイン",
+                "3": " Google로 로그인",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SIGN_IN_APPLE": {
+            "_descSid": {
+                "1": " Sign in with Apple",
+                "2": " Appleでログイン",
+                "3": " Apple로 로그인",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "ADD_TO_BOOKMARKS": {
+            "_descSid": {
+                "1": " Add to bookmarks",
+                "2": " ブックマークに追加",
+                "3": " 북마크에 추가",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "CLOSE": {
+            "_descSid": {
+                "1": " Close",
+                "2": " 閉じる",
+                "3": " 닫기",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "REGISTER_AN_ACCOUNT": {
+            "_descSid": {
+                "1": " Register a new account",
+                "2": " 新規アカウント登録",
+                "3": " 새 계정 등록",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "RETURN_TO_LOGIN": {
+            "_descSid": {
+                "1": " Return to login",
+                "2": " ログインに戻る",
+                "3": " 로그인으로 돌아가기",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "VERIFY_EMAIL": {
+            "_descSid": {
+                "1": " Please check your email for a verification link.",
+                "2": " 確認リンクをメールで確認してください。",
+                "3": " 이메일에서 인증 링크를 확인해주세요.",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "REGISTER_FAILED": {
+            "_descSid": {
+                "1": " Registration failed: ",
+                "2": " 登録に失敗しました：",
+                "3": " 등록 실패: ",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "LOGIN_FAILED": {
+            "_descSid": {
+                "1": " Login failed: ",
+                "2": " ログインに失敗しました：",
+                "3": " 로그인 실패: ",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "LANG": {
+            "_descSid": {
+                "1": " Language",
+                "2": " 言語",
+                "3": " 언어",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "FEEDBACK": {
+            "_descSid": {
+                "1": " Feedback",
+                "2": " フィードバック",
+                "3": " 피드백",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "ABOUT": {
+            "_descSid": {
+                "1": " About",
+                "2": " 소개",
+                "3": " 소개",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "DARK_MODE": {
+            "_descSid": {
+                "1": " Dark Mode",
+                "2": " ダークモード",
+                "3": " 다크모드",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "UP_REMOVE_AD": {
+            "_descSid": {
+                "1": " Remove Ads",
+                "2": " 広告を削除",
+                "3": " 광고 삭제",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "RATE": {
+            "_descSid": {
+                "1": "Rate this app five stars",
+                "2": " このアプリを5つ星で評価",
+                "3": " 이 앱을 5개 별로 평가",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "EMAIL": {
+            "_descSid": {
+                "1": " Email address",
+                "2": " メールアドレス",
+                "3": " 이메일 주소",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "ENTER": {
+            "_descSid": {
+                "1": " enter text",
+                "2": " テキストを入力",
+                "3": " 텍스트 입력",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "TERM": {
+            "_descSid": {
+                "1": " By signing up, you agree to our Term of Service and acknowledge receipt of our Privacy Policy, acknowledge that you have reviewd the policy, and agree to be bound by the terms.",
+                "2": " サインアップすることで、当社の利用規約に同意し、当社のプライバシーポリシーを受け取り、そのポリシーを確認し、条項に同意することに同意します。",
+                "3": " 서명하면 서비스 약관에 동의하고 개인정보처리방침을 수락하며 정책을 검토하고 조항에 동의합니다.",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "NOUN": {
+            "_descSid": {
+                "1": " noun",
+                "2": " 名詞",
+                "3": " 명사",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "VERB": {
+            "_descSid": {
+                "1": " verb",
+                "2": " 動詞",
+                "3": " 동사",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "ADJECTIVE": {
+            "_descSid": {
+                "1": " adj",
+                "2": " 形容詞",
+                "3": " 형용사",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "ADJECTIVE_SATELITE": {
+            "_descSid": {
+                "1": " adj_s",
+                "2": " 形容詞",
+                "3": " 형용사",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "ADVERB": {
+            "_descSid": {
+                "1": " adv",
+                "2": " 副詞",
+                "3": " 부사",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "INVALID_INPUT": {
+            "_descSid": {
+                "1": " Input contains invalid symbols.",
+                "2": " 無効な記号が含まれています。",
+                "3": " 잘못된 기호가 포함되어 있습니다.",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SIGN_UP": {
+            "_descSid": {
+                "1": "Sign in for more features",
+                "2": " サインイン하여 더 많은 기능을 사용하세요",
+                "3": " 로그인하여 더 많은 기능을 사용하세요",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SIGN_IN": {
+            "_descSid": {
+                "1": "Sign in",
+                "2": " サインイン",
+                "3": " 로그인",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SIGN_OUT": {
+            "_descSid": {
+                "1": "Sign out",
+                "2": " サインアウト",
+                "3": " 로그아웃",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "TRENDING": {
+            "_descSid": {
+                "1": "Trending",
+                "2": " トレンド",
+                "3": " 트렌드",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_TO_ADD_BOOKMARK": {
+            "_descSid": {
+                "1": " Unlimited bookmarks after subscribing",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "NO_MORE_AI_SEARCHING_REMAIN_COUNT": {
+            "_descSid": {
+                "1": " You have no more AI searching remain count. Please subscribe to continue.",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "LEMMA_ALREADY_EXISTS": {
+            "_descSid": {
+                "1": " Lemma already exists",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_TO_REMOVE_ADS": {
+            "_descSid": {
+                "1": " Enjoy an uninterrupted experience",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_TO_UNLIMITED_BOOKMARKS": {
+            "_descSid": {
+                "1": " Create unlimited bookmarks",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_TO_UNLIMITED_SEARCH": {
+            "_descSid": {
+                "1": " Use unlimited synonyms comparison supported by AI",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_TO_REMOVE_AD_TITLE": {
+            "_descSid": {
+                "1": " Remove Ads",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_TO_UNLIMITED_BOOKMARKS_TITLE": {
+            "_descSid": {
+                "1": " Unlimited bookmarks",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_TO_UNLIMITED_SEARCH_TITLE": {
+            "_descSid": {
+                "1": " Unlimited synonyms comparison",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "YOU_ARE_SUBSCRIBED": {
+            "_descSid": {
+                "1": " You are the premium now",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_TO_RESTORE": {
+            "_descSid": {
+                "1": " Already subscribed? Restore your subscription",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_TITLE": {
+            "_descSid": {
+                "1": " Premium for Synonym.Net ",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_MESSAGE": {
+            "_descSid": {
+                "1": " You have been subscribed",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_RESTORE_MESSAGE": {
+            "_descSid": {
+                "1": " You have been subscribed",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_RESTORE_BUTTON": {
+            "_descSid": {
+                "1": " Restore",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_RESTORE_FAILED": {
+            "_descSid": {
+                "1": " Restore failed",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        },
+        "SUBSCRIBE_RESTORE_SUCCESS": {
+            "_descSid": {
+                "1": " Restore success",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,56 @@
+SID_TITLE1, SynonymNet
+SID_TITLE2, Bookmarks
+SID_TITLE3, Settings
+ADD_CUSTOM_WORD, Add a synonym
+ENJOY_WORDNET, Enjoy Synonymness!
+BACK, Back
+LOGIN, Login
+REGISTER, Register
+PASSWORD, Password
+SUMBIT, Submit
+SIGN_IN_EMAIL, Sign in with email
+SIGN_IN_GOOGLE, Sign in with Google
+SIGN_IN_APPLE, Sign in with Apple
+ADD_TO_BOOKMARKS, Add to bookmarks
+CLOSE, Close
+REGISTER_AN_ACCOUNT, Register a new account
+RETURN_TO_LOGIN, Return to login
+VERIFY_EMAIL, Please check your email for a verification link.
+REGISTER_FAILED, Registration failed: 
+LOGIN_FAILED, Login failed: 
+LANG, Language
+FEEDBACK, Feedback
+ABOUT, About
+DARK_MODE, Dark Mode
+UP_REMOVE_AD, Remove Ads
+RATE,Rate this app five stars
+EMAIL, Email address
+ENTER, enter text
+TERM, By signing up, you agree to our Term of Service and acknowledge receipt of our Privacy Policy, acknowledge that you have reviewd the policy, and agree to be bound by the terms.
+NOUN, noun
+VERB, verb
+ADJECTIVE, adj
+ADJECTIVE_SATELITE, adj_s
+ADVERB, adv
+INVALID_INPUT, Input contains invalid symbols.
+SIGN_UP,Sign in for more features
+SIGN_IN,Sign in
+SIGN_OUT,Sign out
+TRENDING,Trending
+SUBSCRIBE_TO_ADD_BOOKMARK, Unlimited bookmarks after subscribing
+NO_MORE_AI_SEARCHING_REMAIN_COUNT, You have no more AI searching remain count. Please subscribe to continue.
+LEMMA_ALREADY_EXISTS, Lemma already exists
+SUBSCRIBE_TO_REMOVE_ADS, Enjoy an uninterrupted experience
+SUBSCRIBE_TO_UNLIMITED_BOOKMARKS, Create unlimited bookmarks
+SUBSCRIBE_TO_UNLIMITED_SEARCH, Use unlimited synonyms comparison supported by AI
+SUBSCRIBE_TO_REMOVE_AD_TITLE, Remove Ads
+SUBSCRIBE_TO_UNLIMITED_BOOKMARKS_TITLE, Unlimited bookmarks
+SUBSCRIBE_TO_UNLIMITED_SEARCH_TITLE, Unlimited synonyms comparison
+YOU_ARE_SUBSCRIBED, You are the premium now
+SUBSCRIBE_TO_RESTORE, Already subscribed? Restore your subscription
+SUBSCRIBE_TITLE, Premium for Synonym.Net 
+SUBSCRIBE_MESSAGE, You have been subscribed
+SUBSCRIBE_RESTORE_MESSAGE, You have been subscribed
+SUBSCRIBE_RESTORE_BUTTON, Restore
+SUBSCRIBE_RESTORE_FAILED, Restore failed
+SUBSCRIBE_RESTORE_SUCCESS, Restore success
