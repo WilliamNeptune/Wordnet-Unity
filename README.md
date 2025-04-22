@@ -46,7 +46,7 @@ Example: The synset for the concept of "car" might include the words "car," "aut
 
 ## Connection Explanation
 The connection between lemma, sense and synset can be illustrated in the following graph:
-(https://en.wikipedia.org/wiki/Synonym_ring)
+![Relations](https://github.com/WilliamNeptune/Wordnet-Unity/blob/4a898b9c4abc3138cba207422ff2bfa01347ef11/Images/structure_1.png)
 
 # Features
 ## AI comparsion
@@ -66,7 +66,7 @@ The project allows users to switch between dark mode and light mode.
 
 
 # Project previews
-(https://en.wikipedia.org/wiki/Synonym_ring)
+![Screenshot](https://github.com/WilliamNeptune/Wordnet-Unity/blob/4a898b9c4abc3138cba207422ff2bfa01347ef11/Images/Screenshot_1.png)
 
 
 
