@@ -6,19 +6,20 @@
   - [Lemma](#Lemma)
   - [Sense](#Sense)
   - [Synset](#Synset)
+  - [Connection Explanation](#Connection-Explanation)
 - ✨ [Features](#Features)
-  - [AI Comparison](#Ai-comparison)
+  - [AI Comparison](#AI-comparsion)
   - [Custom Lemma Adding](#Custom-lemma-adding)
   - [Bookmark](#Bookmark)
-  - [UI Settings](#Settings)
   - [Trending List](#Trending-list)
+  - [UI Settings](#Settings)
     - [Language](#Language)
     - [Darkmode](#Darkmode)
 - 🖼️ [Project Previews](#Project-previews)
 
 # Project overview
 WordNet-Unity is a variant of WordNet (https://wordnet.princeton.edu) implemented using Unity and the .NET platform. It provides the core functionality of the original project, including synonym comparison and the ability to add custom words. This project has an iOS version available on the App Store (https://apps.apple.com/us/app/synonymnet/id6739968740).
-# Requirement
+# Requirements
 1. **Unity**
    - Version: 2019.4 or higher
 2. **.NET Standard**
@@ -50,7 +51,7 @@ The connection between lemma, sense and synset can be illustrated in the followi
 # Features
 ## AI comparsion
 The project provides functionality for comparing two synonyms. As this project is the client of the whole system, you need to implement the API. The client-side logic is already implemented, making it easy to integrate AI interfaces such as OpenAI, Groq, or Gemini. A simple prompt could be: "Illustrate the difference between two words."
-## Customs lemma adding
+## Custom lemma adding
 SynonymNet allows you to add custom words to the original synset.
 ## Bookmark 
 The project includes a bookmarking feature to help users remember the words they searched for.
