@@ -16,6 +16,7 @@
     - [Language](#Language)
     - [Darkmode](#Darkmode)
 - 🖼️ [Project Previews](#Project-previews)
+-   [License](#License)
 
 # Project overview
 WordNet-Unity is a variant of WordNet (https://wordnet.princeton.edu) implemented using Unity and the .NET platform. It provides the core functionality of the original project, including synonym comparison and the ability to add custom words. This project has an iOS version available on the App Store (https://apps.apple.com/us/app/synonymnet/id6739968740).
@@ -68,5 +69,9 @@ The project allows users to switch between dark mode and light mode.
 # Project previews
 (https://github.com/WilliamNeptune/Wordnet-Unity/blob/4a898b9c4abc3138cba207422ff2bfa01347ef11/Images/Screenshot_1.png)
 
+# License
 
+This project uses WordNet® data and follows the WordNet License. WordNet® is unencumbered and may be used in commercial applications in accordance with the license. See the [LICENSE](LICENSE) file for details.
+
+WordNet 3.0 Copyright 2006 by Princeton University. All rights reserved.
 
